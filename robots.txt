@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://in-Christ.github.io/sitemap.xml
